@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: roblox-fps-unlocker, roblox, fps, unlocker, cap, 240fps, performance, gaming-tools, windows, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+roblox fps unlocker cap 240fps performance gaming-tools windows roblox-fps-tool fps-unlocker-rbx roblox-fps-unlocker windows portable prebuilt x64 free download
+related: roblox, fps, unlocker, cap, 240fps, performance, gaming-tools, windows
